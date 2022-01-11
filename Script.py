@@ -13,7 +13,7 @@ I have the following features. Tap the button in which you want help."""
 - Annabelle is a open source project made by <a href=https://t.me/FilmClubChannel>Film Club</a>. 
 - Source - <a href= https://t.me/FilmClubChannel>Click here </a>
 <b>Support channel:</b>
-- <a href=https://t.me/FilmClubChannel>Team FilmClub</a>"""
+- <a href=https://t.me/movieclub3131>Team MovieClub</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Annabelle will respond whenever a keyword is found the message
